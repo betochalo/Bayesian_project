@@ -7,7 +7,7 @@ $$
 u_{t} = f(t, u, \theta), \qquad t \in \left\[0, L\right\], L>0,
 $$
 
-with fixed initial vlaue $u(0)= u^{*}(0) $
+with fixed initial value $u(0)= u^{*}(0) $
 
 ![Lorenzt system](https://github.com/betochalo/Bayesian_project/blob/main/img/Figure_3.png)
 
