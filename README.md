@@ -9,5 +9,9 @@ $$
 
 with fixed initial value $u(0)= u^{*}(0) $
 
-![Lorenzt system](https://github.com/betochalo/Bayesian_project/blob/main/img/Figure_3.png)
+<p align="center">
+  <img src="https://github.com/betochalo/Bayesian_project/blob/main/img/Figure_3.png" width="300">
+</p>
+
+
 
