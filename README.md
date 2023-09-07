@@ -1,5 +1,5 @@
 # Probabilistic Solutions to Ordinary Differential Equations
-# # Prior model for a fixed but unknown solution 
+## Prior model for a fixed but unknown solution 
 
 Probability modelling of initial beliefs about the uknown function, $u^{*}: D \times \Omega \rightarrow R^{n}$
 ---
