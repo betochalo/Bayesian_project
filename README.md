@@ -10,7 +10,7 @@ $$
 with fixed initial value $u(0)= u^{*}(0) $
 
 <p align="center">
-  <img src="https://github.com/betochalo/Bayesian_project/blob/main/img/Figure_3.png" width="300">
+  <img src="https://github.com/betochalo/Bayesian_project/blob/main/img/Figure_3.png" alt="Lorenzt system" width="300">
 </p>
 
 
