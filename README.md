@@ -1,2 +1,2 @@
-# Bayesian_project
-Development of Gaussian process and Bayesian Inference
+# Probabilistic Solutions to Ordinary Differential Equations
+
