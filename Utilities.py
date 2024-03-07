@@ -1,5 +1,4 @@
 import numpy as np
-import covariance_function as cf
 import math
 from scipy import special as sp
 from scipy.stats import multivariate_normal
